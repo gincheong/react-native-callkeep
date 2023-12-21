@@ -1,3 +1,10 @@
+# It is a forked repository from `react-native-callkeep@4.3.12`.
+
+This repository deactivate CallKit when user's locale contains "CN" or "CHN".
+(https://stackoverflow.com/questions/51016603/disabling-callkit-from-china-store-best-approach/51319158#51319158)
+
+---
+
 # React Native CallKeep
 
 [![npm version](https://badge.fury.io/js/react-native-callkeep.svg)](https://badge.fury.io/js/react-native-callkeep)
